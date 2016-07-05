@@ -1,6 +1,8 @@
 # DTR Memo
+------------
 ## Project: Rush Hour ##
 ### Group Members: Garrett, Member2, Member3, Member4 ###
+------------
 * #### What does each group member hope to get out of the project? What are your goals and expectations for the project? ####
     * [insert group goals/expectations here]
       * G - [insert my goals/expectations here]
