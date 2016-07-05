@@ -29,6 +29,8 @@ __Created by: Garrett Smestad, Member2, Member3, & Member4__
 
 *[Insert Concept3 description/explanation here]*
 
+----
+
 ## Project Iterations and Base Expectations
 
 Because the requirements for this project are lengthy and complex, we've broken them into iterations:
@@ -42,6 +44,8 @@ Because the requirements for this project are lengthy and complex, we've broken 
 * [Iteration 6](https://github.com/turingschool/curriculum/blob/master/source/projects/rush_hour.md#iteration-6)
 * [Iteration 7](https://github.com/turingschool/curriculum/blob/master/source/projects/rush_hour.md#iteration-7)
 * [Iteration 8](https://github.com/turingschool/curriculum/blob/master/source/projects/rush_hour.md#iteration-8)
+
+----
 
 ## Appendix
 
